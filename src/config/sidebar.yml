@@ -1,0 +1,10 @@
+# Sidebar navigation
+
+- label: 'General'
+  items:
+    - label: 'Introduction'
+      link: '/'
+    - label: 'Github'
+      link: 'https://github.com/JagrKt/'
+    - label: 'TeamCity'
+      link: 'http://ci.anvilpowered.org'
