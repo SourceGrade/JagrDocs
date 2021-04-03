@@ -17,7 +17,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/JagrKt/JagrKtWebsite`,
+        githubUrl: `https://github.com/JagrKt/JagrKtDocs`,
       },
     },
     {
@@ -28,7 +28,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
-        icon: ``,
+        icon: `static/JagrKtFavicon.png`,
       },
     },
     `gatsby-plugin-sitemap`,
