@@ -6,3 +6,17 @@
       link: '/'
     - label: 'Github'
       link: 'https://github.com/SourceGrade/'
+- label: 'Rubric'
+  items:
+    - label: 'Overview'
+      link: '/rubric/overview'
+    - label: 'Criterion Overview'
+      link: '/rubric/criterion_overview'
+    - label: 'Rubric Builder'
+      link: '/rubric/rubric_builder'
+    - label: 'Criterion Builder'
+      link: '/rubric/criterion_builder'
+- label: 'Grader'
+  items:
+    - label: 'Getting Started'
+      link: '/grader/getting_started'
