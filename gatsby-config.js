@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `JagrKt`,
-    defaultTitle: `JagrKt`,
-    siteTitleShort: `JagrKt`,
+    siteTitle: `Jagr`,
+    defaultTitle: `Jagr`,
+    siteTitleShort: `Jagr`,
     siteDescription: ``,
-    siteUrl: `http://www.jagrkt.org`,
+    siteUrl: `https://www.sourcegrade.org`,
     siteAuthor: 'alexstaeding',
     siteImage: ``,
     siteLanguage: `en`,
@@ -17,7 +17,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/JagrKt/JagrKtDocs`,
+        githubUrl: `https://github.com/SourceGrade/JagrDocs`,
       },
     },
     {
@@ -28,7 +28,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
-        icon: `static/JagrKtFavicon.png`,
+        icon: `static/favicon.png`,
       },
     },
     `gatsby-plugin-sitemap`,
