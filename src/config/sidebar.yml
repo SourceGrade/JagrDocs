@@ -5,6 +5,4 @@
     - label: 'Introduction'
       link: '/'
     - label: 'Github'
-      link: 'https://github.com/JagrKt/'
-    - label: 'TeamCity'
-      link: 'http://ci.anvilpowered.org'
+      link: 'https://github.com/SourceGrade/'
