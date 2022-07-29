@@ -6,7 +6,7 @@
   "author": "alexstaeding",
   "license": "LGPL-3.0",
   "dependencies": {
-    "@rocketseat/gatsby-theme-docs": "2.4.0",
+    "@rocketseat/gatsby-theme-docs": "3.1.0",
     "gatsby": "3.14.6",
     "gatsby-plugin-canonical-urls": "3.14.0",
     "gatsby-plugin-manifest": "3.14.0",
